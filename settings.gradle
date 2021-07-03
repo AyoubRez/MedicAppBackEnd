@@ -1,0 +1,4 @@
+rootProject.name = 'medic'
+include 'apimedic'
+include 'migration'
+
