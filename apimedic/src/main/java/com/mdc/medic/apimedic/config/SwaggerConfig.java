@@ -34,12 +34,12 @@ public class SwaggerConfig {
     }
     private ApiInfo metaData(){
         return new ApiInfoBuilder()
-                .title("GHM INTERFACE - Spring Boot Swagger Configuration")
+                .title("MEDIC INTERFACE - Spring Boot Swagger Configuration")
                 .description("\"Swagger configuration for application \"" )
                 .version("1.1.0")
                 .license("Apashe 2.0")
                 .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0\"")
-                .contact(new Contact("PCA FACTORY","https://www.groupebcp.com/","AREZZOUK@pca.ma"))
+                .contact(new Contact("SHREDDER FACTORY","https://www.groupebcp.com/","AREZZOUK@pca.ma"))
                 .build();
 
     }
